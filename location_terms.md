@@ -49,4 +49,4 @@
 
 ---
 
-**문의 / 위치정보 관련 권리 행사**: support@dalrun.app
+**문의 / 위치정보 관련 권리 행사**: dalrun.official@gmail.com
